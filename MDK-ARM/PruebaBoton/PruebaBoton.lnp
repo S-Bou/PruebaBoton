@@ -3,7 +3,6 @@
 "pruebaboton\main.o"
 "pruebaboton\stm32f4xx_it.o"
 "pruebaboton\stm32f4xx_hal_msp.o"
-"pruebaboton\pruebaboton.o"
 "pruebaboton\stm32f4xx_hal_tim.o"
 "pruebaboton\stm32f4xx_hal_tim_ex.o"
 "pruebaboton\stm32f4xx_hal_rcc.o"
@@ -19,6 +18,7 @@
 "pruebaboton\stm32f4xx_hal_cortex.o"
 "pruebaboton\stm32f4xx_hal.o"
 "pruebaboton\stm32f4xx_hal_exti.o"
+"pruebaboton\pruebaboton.o"
 "pruebaboton\system_stm32f4xx.o"
 --library_type=microlib --strict --scatter "PruebaBoton\PruebaBoton.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols

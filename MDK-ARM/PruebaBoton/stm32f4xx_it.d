@@ -31,5 +31,5 @@ pruebaboton\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pw
 pruebaboton\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 pruebaboton\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 pruebaboton\stm32f4xx_it.o: ../Inc/stm32f4xx_it.h
-pruebaboton\stm32f4xx_it.o: ..\..\Libraries_stm32f4\pruebaboton.h
+pruebaboton\stm32f4xx_it.o: ..\..\Libraries\pruebaboton.h
 pruebaboton\stm32f4xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

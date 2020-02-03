@@ -1,5 +1,5 @@
-pruebaboton\pruebaboton.o: ..\..\Libraries_stm32f4\pruebaboton.c
-pruebaboton\pruebaboton.o: ..\..\Libraries_stm32f4\pruebaboton.h
+pruebaboton\pruebaboton.o: ..\..\Libraries\pruebaboton.c
+pruebaboton\pruebaboton.o: ..\..\Libraries\pruebaboton.h
 pruebaboton\pruebaboton.o: ../Inc/main.h
 pruebaboton\pruebaboton.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 pruebaboton\pruebaboton.o: ../Inc/stm32f4xx_hal_conf.h
